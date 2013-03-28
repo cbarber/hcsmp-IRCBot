@@ -1,0 +1,8 @@
+name: IRCBot
+main: com.psychobit.ircbot.IRCBot
+version: 1.0
+description: IRC Chat Linker
+commands:
+   ircbot:
+      description: IRC Chat
+      usage: /<command>
